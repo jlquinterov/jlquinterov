@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Portafolio | JL Quintero</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: auto; padding: 2em; background: #f4f4f4; }
+        .card { background: white; padding: 1.5em; border-radius: 8px; margin-bottom: 1em; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        h1 { color: #2c3e50; }
+        .tag { background: #3498db; color: white; padding: 0.2em 0.6em; border-radius: 4px; font-size: 0.8em; }
+    </style>
+</head>
+<body>
+    <h1>JL Quintero | Data Scientist & Engineer</h1>
+    <p>Bienvenido a mi portafolio técnico. Aquí encontrarás mis proyectos de IA, dashboards y automatizaciones.</p>
+    
+    <div class="card">
+        <h2>📊 Dashboard de Power BI: Análisis de Datos</h2>
+        <span class="tag">Power BI</span> <span class="tag">DAX</span>
+        <p>Optimización de procesos mediante visualización avanzada.</p>
+        <a href="#">Ver Proyecto</a>
+    </div>
+
+    <div class="card">
+        <h2>🤖 Modelo de IA: Predicción con Python</h2>
+        <span class="tag">Python</span> <span class="tag">Machine Learning</span>
+        <p>Despliegue de modelo de clasificación en la nube.</p>
+        <a href="#">Ver Código</a>
+    </div>
+</body>
+</html>
